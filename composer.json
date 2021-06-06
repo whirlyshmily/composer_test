@@ -17,7 +17,7 @@
         "psr-4": {
           "Flower\\Rose\\": "src/Flower/Rose",
           "Flower\\Lily\\": "src/Flower/Lily",
-          "Xiaoe\\ClockHub\\": "src"
+          "Xiaoe\\ClockHub\\": "src/Xiaoe/ClockHub"
         }
       }
 }
