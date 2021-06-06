@@ -1,0 +1,22 @@
+{
+    "name": "whirl/composer_test",
+    "description": "try make a package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "whirlyyin",
+            "email": "whirlyyin@xiaoe-tech.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+          "Flower\\Rose\\": "src/Flower/Rose",
+          "Flower\\Lily\\": "src/Flower/Lily"
+        }
+      }
+}
