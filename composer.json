@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-          "Flower": "src/"
+          "Flower\\": "src/"
         }
       }
 }
