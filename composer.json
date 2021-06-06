@@ -16,7 +16,8 @@
     "autoload": {
         "psr-4": {
           "Flower\\Rose\\": "src/Flower/Rose",
-          "Flower\\Lily\\": "src/Flower/Lily"
+          "Flower\\Lily\\": "src/Flower/Lily",
+          "Xiaoe\\ClockHub\\": "src"
         }
       }
 }
